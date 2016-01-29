@@ -2,6 +2,8 @@
 
 Role for handling apt repositories.
 
+Forked from telusdigital because we needed to depend on release versions.
+
 [![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
 
 Notes
